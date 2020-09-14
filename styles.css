@@ -1,0 +1,39 @@
+body {
+    font-family: 'Roboto';
+}
+.contenedor{
+    border: 2px solid black;
+    width: 500px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.titulo{
+    text-align: center;
+    font-weight: 1000;
+    font-size: 30px;
+    color: indigo;
+    margin: 10px;
+    border-bottom: 2px solid black;
+}
+.contenido{
+    width: 500px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.instruccion{
+    margin-left: 20px;
+}
+.codigo{
+    font-weight: 1000;
+    font-size: 20px;
+    text-align: center;
+}
+.monto{
+    font-weight: 1000;
+    font-size: 30px;
+    text-align: center;
+    color: green;
+}
+.boton{
+    text-align: center;
+}
